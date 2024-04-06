@@ -1,0 +1,9 @@
+{
+  "sigin": "SignIn",
+  "signSubmitted": "SignIn",
+  "username": "Username",
+  "password": "Password",
+  "confirmPassword": "CofirmPassword",
+  "login": "Login",
+  "submitLogin": "LogIn"
+}
